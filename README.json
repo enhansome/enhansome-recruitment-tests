@@ -1,0 +1,1129 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "AmbulnzLLC",
+          "description": "Build a single page web app that allows users to order pizza.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-02-24T16:34:14Z",
+            "owner": "AmbulnzLLC",
+            "repo": "frontend-challenge",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Thortful",
+          "description": "Write a JavaScript / CoffeeScript app using AngularJS that will allow a user to search a repository by name and display a repository's relevant information.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2017-08-28T23:17:31Z",
+            "owner": "ThortfulNew",
+            "repo": "FrontEndChallenge",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EngageTech",
+          "description": "An Angular, HTML, and CSS-focused challenge where you create an application that displays the data returned from a REST endpoint provided by the included Java application.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-11-28T15:46:56Z",
+            "owner": "engagetech",
+            "repo": "frontend-coding-challenge",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Deskbookers",
+          "description": "Create a single webpage with a navigation bar, a slider, and a search bar. CSS frameworks are not allowed.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2016-09-28T13:21:16Z",
+            "owner": "deskbookers",
+            "repo": "frontend-test",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Chatham",
+          "description": "You'll build a small web application for a weather dashboard using AngularJS.",
+          "children": []
+        }
+      ],
+      "title": "Angular"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "JustEat",
+          "description": "Security engineer recruitment test.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2022-07-07T13:26:10Z",
+            "owner": "justeat",
+            "repo": "JustEat.InfoSecRecruitmentTest",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JustGiving",
+          "description": "SDET recruitment test.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2016-09-09T11:20:33Z",
+            "owner": "JustGivingArchive",
+            "repo": "Recruitment-Test-SDET",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "C#"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Xfive",
+          "description": "Front-end test project used in recruitment.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2018-06-14T14:31:39Z",
+            "owner": "xfiveco",
+            "repo": "front-end-test-project",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "McMakler",
+          "description": "Create a layout based on the given screen and consume our public API to retrieve a list of advertisements.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-02-18T12:06:50Z",
+            "owner": "mcmakler",
+            "repo": "frontend-code-challenge",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Digia Online",
+          "description": "Preliminary test to determine the technical ability of developers applying for front-end positions at Digia and its partners.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-09-19T09:44:25Z",
+            "owner": "digiaonline",
+            "repo": "docs",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Yodlr",
+          "description": "Code/design challenge for front end engineering applicants.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-06-23T00:46:56Z",
+            "owner": "yodlr",
+            "repo": "frontend-code-challenge",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JustEat",
+          "description": "UI test for interview candidates.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-11-30T12:02:13Z",
+            "owner": "justeat",
+            "repo": "JustEat.Recruitment.UI",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Busbud",
+          "description": "Implement a form with two autocomplete text-boxes to help users formulate a search for departures and destinations.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "HTML",
+            "last_commit": "2020-03-11T22:55:49Z",
+            "owner": "busbud",
+            "repo": "coding-challenge-frontend-a",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Deskbookers",
+          "description": "Junior frontend test.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "HTML",
+            "last_commit": "2017-07-31T13:39:32Z",
+            "owner": "deskbookers",
+            "repo": "frontend-test-junior",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Nord Software",
+          "description": "Preliminary test to determine the technical ability of developers applying for front-end positions at Nord Software.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2017-01-11T06:52:06Z",
+            "owner": "digiaonline",
+            "repo": "preliminary-tests",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pagepro",
+          "description": "Convert a PSD (Photoshop) - web design to HTML/CSS/JS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2016-04-07T12:22:21Z",
+            "owner": "Pagepro",
+            "repo": "front-end-test-project-01",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pagepro",
+          "description": "Convert another PSD (Photoshop) - web design to HTML/CSS/JS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2015-11-11T15:34:11Z",
+            "owner": "Pagepro",
+            "repo": "front-end-test-project-02",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AMARO",
+          "description": "Build a special landing page for one of the best-sellers of AMARO history.",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "InvitationDigital",
+          "description": "Front end developer recruitment test.",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "Netguru",
+          "description": "Task for junior front-end position.",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "TenantBase",
+          "description": "A quick toy project using roughly TenantBase's development stack.",
+          "children": []
+        }
+      ],
+      "title": "HTML & CSS"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Uber",
+          "description": "You can work on one of the four challenges provided.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2016-12-19T19:17:47Z",
+            "owner": "uber-archive",
+            "repo": "coding-challenge-tools",
+            "stars": 803
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JustEat",
+          "description": "Create the application as either a command line application, web application or mobile application.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Scala",
+            "last_commit": "2024-04-16T10:06:28Z",
+            "owner": "justeat",
+            "repo": "JustEat.RecruitmentTest",
+            "stars": 65
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AmbulnzLLC",
+          "description": "Challenge for full-stack developer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-11-02T17:44:13Z",
+            "owner": "AmbulnzLLC",
+            "repo": "fullstack-challenge",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SitePoint",
+          "description": "You need to create a simple counter application.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-05-16T00:21:07Z",
+            "owner": "sitepoint",
+            "repo": "frontend-test",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Loktra",
+          "description": "Five different front end engineer challenges to choose from.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2017-07-28T10:26:30Z",
+            "owner": "Loktra",
+            "repo": "Front-End-Engineer",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Xfive",
+          "description": "Xfive test JavaScript project.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2019-10-03T07:50:23Z",
+            "owner": "xfiveco",
+            "repo": "javascript-test",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "splicers",
+          "description": "Your challenge is to code the sequencer part of our Drum Machine, which we called JS-808.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-10-16T21:09:14Z",
+            "owner": "splice",
+            "repo": "js-808",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Room Key",
+          "description": "Your challenge is to build something interesting that makes use of either the mock or live data provided.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2019-04-22T12:19:03Z",
+            "owner": "roomkey",
+            "repo": "front-end-code-challenge",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ZEPL",
+          "description": "Write component-based UIs with serializable application state.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2018-01-22T08:51:02Z",
+            "owner": "ZEPL",
+            "repo": "front-end-challenge",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Snowdog",
+          "description": "Front-end recruitment test.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-11-21T20:57:36Z",
+            "owner": "SnowdogApps",
+            "repo": "front-end-recruitment-test",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Busbud",
+          "description": "Create a web page that shows a map to visualize coverage of the most populated cities in the world.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2014-03-20T16:16:11Z",
+            "owner": "busbud",
+            "repo": "coding-challenge-analytics-a",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Goodylabs",
+          "description": "Implement a method for a Tetris like game.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-12-07T21:34:52Z",
+            "owner": "goodylabs",
+            "repo": "frontend-dev-test",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ada",
+          "description": "Fix some bugs, make some improvements in a real-time TODO app.",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "ChurchDesk",
+          "description": "Create a Single-Page Application (SPA) - by using HTML, CSS and JavaScript working with the GitHub API.",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "Exzeo",
+          "description": "Design the homepage of a fictional radio station and list the top 100 songs.",
+          "children": []
+        }
+      ],
+      "title": "JavaScript"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Entria",
+          "description": "Create a REST CRUD.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-03-08T13:06:14Z",
+            "owner": "entria",
+            "repo": "jobs",
+            "stars": 393
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Busbud",
+          "description": "Design an API endpoint that provides autocomplete suggestions for large cities.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-08-17T19:32:17Z",
+            "owner": "busbud",
+            "repo": "coding-challenge-backend-c",
+            "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AmbulnzLLC",
+          "description": "The application serves the purpose of ordering pizza online.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-09-22T20:45:36Z",
+            "owner": "AmbulnzLLC",
+            "repo": "backend-challenge",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Deskbookers",
+          "description": "Full stack developer test.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2017-02-28T13:24:28Z",
+            "owner": "deskbookers",
+            "repo": "full-stack-test",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GarageScore",
+          "description": "First of the series of three challenges.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2017-11-30T15:16:11Z",
+            "owner": "garagescore",
+            "repo": "recruitment-test",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Goodylabs",
+          "description": "Create a finite automaton that has three states.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-01-18T08:17:56Z",
+            "owner": "goodylabs",
+            "repo": "backend-dev-test",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ackee",
+          "description": "Enhance our Node.js backend app for delicious ackee recipes.",
+          "children": []
+        }
+      ],
+      "title": "Node.js"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Nord Software",
+          "description": "Preliminary test to determine the technical ability of developers applying for back-end positions at Nord Software.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-09-19T09:44:25Z",
+            "owner": "digiaonline",
+            "repo": "docs",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Teamleader",
+          "description": "Three different problems to solve.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-06-30T13:09:11Z",
+            "owner": "teamleadercrm",
+            "repo": "coding-test",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Xfive",
+          "description": "Create a WordPress jobs list page pointing to individual job pages and a simple application form.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2018-05-22T06:50:29Z",
+            "owner": "xfiveco",
+            "repo": "wordpress-test",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Aiir",
+          "description": "Recruitment test for developer roles.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2017-02-18T13:08:01Z",
+            "owner": "aiir",
+            "repo": "dev-recruitment-test",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CitizenNet",
+          "description": "Your task is to write a program to reliably pull Posts and Likes JSON files from the provided API, and represent this data in a web app for the user.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2016-06-09T17:41:12Z",
+            "owner": "citizennet",
+            "repo": "frontend-engineering-challenge",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Snowdog",
+          "description": "Recruitment test for PHP developers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2021-11-17T13:27:22Z",
+            "owner": "SnowdogApps",
+            "repo": "php-recruitment-test",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Xedi",
+          "description": "Laravel todo app for junior developers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2018-05-10T12:37:21Z",
+            "owner": "xedi",
+            "repo": "tech-test",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Xedi",
+          "description": "Laravel todo app for mid-weight developers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2018-05-10T12:37:21Z",
+            "owner": "xedi",
+            "repo": "tech-test",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "PHP"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Tuteria",
+          "description": "Tests that need to be passed before getting an interview to work with Tuteria.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-12-26T20:28:47Z",
+            "owner": "Tuteria",
+            "repo": "Recruitment-test",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Busbud",
+          "description": "Create a web page that shows a map to visualize coverage of the most populated cities in the world.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2014-03-20T16:16:11Z",
+            "owner": "busbud",
+            "repo": "coding-challenge-analytics-a",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Busbud",
+          "description": "Design an application which concurrently processes a series of images.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2014-08-25T13:42:17Z",
+            "owner": "busbud",
+            "repo": "coding-challenge-d",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Busbud",
+          "description": "Write a crawler for National Express.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2014-01-08T05:41:34Z",
+            "owner": "busbud",
+            "repo": "coding-challenge-crawler-a",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Busbud",
+          "description": "Write a crawler for BoltBus that can extract a list of stops, a list of routes, and a list of departures.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2014-05-01T16:58:37Z",
+            "owner": "busbud",
+            "repo": "coding-challenge-crawler-b",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Netguru",
+          "description": "The first task in the recruitment process for the position of Python Developer at Netguru.",
+          "children": []
+        }
+      ],
+      "title": "Python"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Entria",
+          "description": "Create a List and Detail view for some model.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-03-08T13:06:14Z",
+            "owner": "entria",
+            "repo": "jobs",
+            "stars": 393
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SkyScanner",
+          "description": "Full-stack recruitment test.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2025-03-31T11:10:25Z",
+            "owner": "Skyscanner",
+            "repo": "full-stack-recruitment-test",
+            "stars": 114
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AMARO",
+          "description": "Build a catalogue page for some products of AMARO.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-01-30T01:52:31Z",
+            "owner": "amaroteam",
+            "repo": "front-end-challenge",
+            "stars": 103
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Significa",
+          "description": "You should write a React app, using the provided screens as reference. You'll need to make requests to an API to get some JSON content, filter the data, and print it on view.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-04-12T12:12:40Z",
+            "owner": "significa",
+            "repo": "frontend-challenge",
+            "stars": 96
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "StreamCo",
+          "description": "You will need to build the following 3 pages with React, a \"Home\", a \"Series\", and a \"Movies\" page.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2025-04-10T04:50:27Z",
+            "owner": "StreamCo",
+            "repo": "streamco-web-coding-challenge",
+            "stars": 64
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pipefy",
+          "description": "You will build a React application that will render a Pipefy form.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2019-05-24T21:06:16Z",
+            "owner": "pipefy",
+            "repo": "RecruitmentExercise",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Busbud",
+          "description": "Your challenge is to build a microsite that allows a traveller from NYC to find one-way departure schedules to the Osheaga festival.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-06-23T14:21:56Z",
+            "owner": "busbud",
+            "repo": "coding-challenge-frontend-b",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AmbulnzLLC",
+          "description": "Build a single page web app that allows users to order pizza.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-02-24T16:34:14Z",
+            "owner": "AmbulnzLLC",
+            "repo": "frontend-challenge",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Esper",
+          "description": "Using this repository as a base, please help Mr. Boggins develop the front-end for his app.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "CSS",
+            "last_commit": "2017-12-29T01:37:07Z",
+            "owner": "esperco",
+            "repo": "front-end-challenge",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ZEPL",
+          "description": "Make a single page application which can manage notes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2018-01-22T08:51:02Z",
+            "owner": "ZEPL",
+            "repo": "front-end-challenge",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ZEPL",
+          "description": "Make a simplified slack clone.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2018-01-22T08:51:02Z",
+            "owner": "ZEPL",
+            "repo": "front-end-challenge",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Storecast",
+          "description": "The task is to implement a 2-step UI wizard to create a user account.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-03-01T09:33:42Z",
+            "owner": "storecast",
+            "repo": "frontend-challenge",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JustGiving",
+          "description": "An unattended front-end recruitment test for JustGiving.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2019-05-06T22:37:41Z",
+            "owner": "JustGivingArchive",
+            "repo": "recruitment-test-donations",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ClearScore",
+          "description": "At-home front end test, building a circular credit score indicator.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2018-05-08T16:26:30Z",
+            "owner": "ClearScore",
+            "repo": "FED-home-test",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Backbench",
+          "description": "For hiring front-end full time.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2018-07-23T12:43:30Z",
+            "owner": "backbench",
+            "repo": "front-end-challenge-2018",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DeskBookers",
+          "description": "Another front-end developer test for experts.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "HTML",
+            "last_commit": "2018-03-28T20:10:58Z",
+            "owner": "deskbookers",
+            "repo": "frontend-expert-test",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Deskbookers",
+          "description": "Create a single webpage with a navigation bar, a slider, and a search bar. CSS frameworks are not allowed.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2016-09-28T13:21:16Z",
+            "owner": "deskbookers",
+            "repo": "frontend-test",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Eventable",
+          "description": "Create a React app with three primary components; a list of events, a form, and a search component.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2017-03-09T22:36:46Z",
+            "owner": "eventable",
+            "repo": "frontend-coding-challenge",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Goodylabs",
+          "description": "Simple React & webpack project for recruitment process.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-07T18:35:52Z",
+            "owner": "goodylabs",
+            "repo": "fe-dev-test",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JustGiving",
+          "description": "An unattended SDET recruitment test for JustGiving.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2017-01-16T14:23:46Z",
+            "owner": "JustGivingArchive",
+            "repo": "recruitment-test-donations-sdet",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Medopad",
+          "description": "Create a React.js app that allows a doctor to visualise and a monitor patient's heart rate.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-07-06T14:09:28Z",
+            "owner": "Medopad",
+            "repo": "medopad-frontend-challenge",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Worldfavor",
+          "description": "Complete three different tasks; implement the provided design, work on state management, and change the way data is loaded.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-10T04:34:22Z",
+            "owner": "WorldfavorOrg",
+            "repo": "recruitment-test",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Colony",
+          "description": "You'll be building a simple React component: an avatar picker.",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "Exzeo",
+          "description": "Create a React app to search for artists on iTunes and display the results.",
+          "children": []
+        }
+      ],
+      "title": "React.js"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Goodylabs",
+          "description": "Rails 5 application that can be developed by candidates.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2023-04-12T05:57:19Z",
+            "owner": "goodylabs",
+            "repo": "rails-dev-test",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Monterail",
+          "description": "QA recruitment task.",
+          "children": []
+        }
+      ],
+      "title": "Ruby"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:31:40.950Z",
+    "original_repository": "zsoltime/awesome-recruitment-tests",
+    "original_repository_sha": "4314ab019811602a50ed8424ca58f209124b70da",
+    "enhanced_repository": "enhansome/enhansome-recruitment-tests",
+    "enhanced_repository_description": null,
+    "title": "Awesome Recruitment Tests with stars"
+  }
+}
