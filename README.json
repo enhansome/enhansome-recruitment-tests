@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 81027447,
             "language": null,
             "last_commit": "2022-02-24T16:34:14Z",
             "owner": "AmbulnzLLC",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 35476915,
             "language": null,
             "last_commit": "2017-08-28T23:17:31Z",
             "owner": "ThortfulNew",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 45384893,
             "language": "TypeScript",
             "last_commit": "2022-11-28T15:46:56Z",
             "owner": "engagetech",
@@ -52,24 +55,19 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 64405335,
             "language": null,
             "last_commit": "2016-09-28T13:21:16Z",
             "owner": "deskbookers",
             "repo": "frontend-test",
             "stars": 0
           }
-        },
-        {
-          "node_type": "item",
-          "title": "Chatham",
-          "description": "You'll build a small web application for a weather dashboard using AngularJS.",
-          "children": []
         }
       ],
       "title": "Angular"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -78,6 +76,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 62134240,
             "language": "C#",
             "last_commit": "2022-07-07T13:26:10Z",
             "owner": "justeat",
@@ -92,6 +91,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 66085216,
             "language": "C#",
             "last_commit": "2016-09-09T11:20:33Z",
             "owner": "JustGivingArchive",
@@ -103,7 +103,7 @@
       "title": "C#"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -112,6 +112,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 22677810,
             "language": null,
             "last_commit": "2018-06-14T14:31:39Z",
             "owner": "xfiveco",
@@ -126,6 +127,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 112184466,
             "language": "JavaScript",
             "last_commit": "2018-02-18T12:06:50Z",
             "owner": "mcmakler",
@@ -140,6 +142,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 53930001,
             "language": null,
             "last_commit": "2024-09-19T09:44:25Z",
             "owner": "digiaonline",
@@ -154,6 +157,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 27783133,
             "language": "JavaScript",
             "last_commit": "2024-06-23T00:46:56Z",
             "owner": "yodlr",
@@ -168,6 +172,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 68280743,
             "language": null,
             "last_commit": "2020-11-30T12:02:13Z",
             "owner": "justeat",
@@ -182,6 +187,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 11390843,
             "language": "HTML",
             "last_commit": "2020-03-11T22:55:49Z",
             "owner": "busbud",
@@ -196,6 +202,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 98887370,
             "language": "HTML",
             "last_commit": "2017-07-31T13:39:32Z",
             "owner": "deskbookers",
@@ -210,6 +217,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 52776604,
             "language": null,
             "last_commit": "2017-01-11T06:52:06Z",
             "owner": "digiaonline",
@@ -224,6 +232,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 45536694,
             "language": null,
             "last_commit": "2016-04-07T12:22:21Z",
             "owner": "Pagepro",
@@ -238,42 +247,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 45989582,
             "language": null,
             "last_commit": "2015-11-11T15:34:11Z",
             "owner": "Pagepro",
             "repo": "front-end-test-project-02",
             "stars": 0
           }
-        },
-        {
-          "node_type": "item",
-          "title": "AMARO",
-          "description": "Build a special landing page for one of the best-sellers of AMARO history.",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "InvitationDigital",
-          "description": "Front end developer recruitment test.",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "Netguru",
-          "description": "Task for junior front-end position.",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "TenantBase",
-          "description": "A quick toy project using roughly TenantBase's development stack.",
-          "children": []
         }
       ],
       "title": "HTML & CSS"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -282,6 +268,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 11830418,
             "language": null,
             "last_commit": "2016-12-19T19:17:47Z",
             "owner": "uber-archive",
@@ -296,6 +283,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 24330148,
             "language": "Scala",
             "last_commit": "2024-04-16T10:06:28Z",
             "owner": "justeat",
@@ -310,6 +298,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 121062061,
             "language": null,
             "last_commit": "2023-11-02T17:44:13Z",
             "owner": "AmbulnzLLC",
@@ -324,6 +313,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 30213713,
             "language": "JavaScript",
             "last_commit": "2018-05-16T00:21:07Z",
             "owner": "sitepoint",
@@ -338,6 +328,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 62308642,
             "language": null,
             "last_commit": "2017-07-28T10:26:30Z",
             "owner": "Loktra",
@@ -352,6 +343,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 100364259,
             "language": null,
             "last_commit": "2019-10-03T07:50:23Z",
             "owner": "xfiveco",
@@ -366,6 +358,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 57183818,
             "language": null,
             "last_commit": "2023-10-16T21:09:14Z",
             "owner": "splice",
@@ -380,6 +373,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 38066197,
             "language": "JavaScript",
             "last_commit": "2019-04-22T12:19:03Z",
             "owner": "roomkey",
@@ -394,6 +388,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 62246870,
             "language": null,
             "last_commit": "2018-01-22T08:51:02Z",
             "owner": "ZEPL",
@@ -408,6 +403,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 45183894,
             "language": "TypeScript",
             "last_commit": "2022-11-21T20:57:36Z",
             "owner": "SnowdogApps",
@@ -422,6 +418,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 16291331,
             "language": null,
             "last_commit": "2014-03-20T16:16:11Z",
             "owner": "busbud",
@@ -436,36 +433,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 76465795,
             "language": "JavaScript",
             "last_commit": "2020-12-07T21:34:52Z",
             "owner": "goodylabs",
             "repo": "frontend-dev-test",
             "stars": 1
           }
-        },
-        {
-          "node_type": "item",
-          "title": "Ada",
-          "description": "Fix some bugs, make some improvements in a real-time TODO app.",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "ChurchDesk",
-          "description": "Create a Single-Page Application (SPA) - by using HTML, CSS and JavaScript working with the GitHub API.",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "Exzeo",
-          "description": "Design the homepage of a fictional radio station and list the top 100 songs.",
-          "children": []
         }
       ],
       "title": "JavaScript"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -474,6 +454,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 79812897,
             "language": "JavaScript",
             "last_commit": "2026-03-08T13:06:14Z",
             "owner": "entria",
@@ -488,6 +469,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 19303334,
             "language": "JavaScript",
             "last_commit": "2023-08-17T19:32:17Z",
             "owner": "busbud",
@@ -502,6 +484,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 81026749,
             "language": null,
             "last_commit": "2022-09-22T20:45:36Z",
             "owner": "AmbulnzLLC",
@@ -516,6 +499,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 64395116,
             "language": "PHP",
             "last_commit": "2017-02-28T13:24:28Z",
             "owner": "deskbookers",
@@ -530,6 +514,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 112626181,
             "language": null,
             "last_commit": "2017-11-30T15:16:11Z",
             "owner": "garagescore",
@@ -544,24 +529,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 76465755,
             "language": "JavaScript",
             "last_commit": "2017-01-18T08:17:56Z",
             "owner": "goodylabs",
             "repo": "backend-dev-test",
             "stars": 0
           }
-        },
-        {
-          "node_type": "item",
-          "title": "Ackee",
-          "description": "Enhance our Node.js backend app for delicious ackee recipes.",
-          "children": []
         }
       ],
       "title": "Node.js"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -570,6 +550,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 53930001,
             "language": null,
             "last_commit": "2024-09-19T09:44:25Z",
             "owner": "digiaonline",
@@ -584,6 +565,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 65009664,
             "language": "PHP",
             "last_commit": "2026-06-30T13:09:11Z",
             "owner": "teamleadercrm",
@@ -598,6 +580,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 100370605,
             "language": null,
             "last_commit": "2018-05-22T06:50:29Z",
             "owner": "xfiveco",
@@ -612,6 +595,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 82163843,
             "language": null,
             "last_commit": "2017-02-18T13:08:01Z",
             "owner": "aiir",
@@ -626,6 +610,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 6252654,
             "language": null,
             "last_commit": "2016-06-09T17:41:12Z",
             "owner": "citizennet",
@@ -640,6 +625,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 64653987,
             "language": "PHP",
             "last_commit": "2021-11-17T13:27:22Z",
             "owner": "SnowdogApps",
@@ -654,6 +640,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 50237376,
             "language": null,
             "last_commit": "2018-05-10T12:37:21Z",
             "owner": "xedi",
@@ -668,6 +655,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 50237376,
             "language": null,
             "last_commit": "2018-05-10T12:37:21Z",
             "owner": "xedi",
@@ -679,7 +667,7 @@
       "title": "PHP"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -688,6 +676,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 75810775,
             "language": "Python",
             "last_commit": "2022-12-26T20:28:47Z",
             "owner": "Tuteria",
@@ -702,6 +691,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 16291331,
             "language": null,
             "last_commit": "2014-03-20T16:16:11Z",
             "owner": "busbud",
@@ -716,6 +706,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 23213043,
             "language": "Python",
             "last_commit": "2014-08-25T13:42:17Z",
             "owner": "busbud",
@@ -730,6 +721,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 14143587,
             "language": "Python",
             "last_commit": "2014-01-08T05:41:34Z",
             "owner": "busbud",
@@ -744,24 +736,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 15877228,
             "language": "Python",
             "last_commit": "2014-05-01T16:58:37Z",
             "owner": "busbud",
             "repo": "coding-challenge-crawler-b",
             "stars": 1
           }
-        },
-        {
-          "node_type": "item",
-          "title": "Netguru",
-          "description": "The first task in the recruitment process for the position of Python Developer at Netguru.",
-          "children": []
         }
       ],
       "title": "Python"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -770,6 +757,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 79812897,
             "language": "JavaScript",
             "last_commit": "2026-03-08T13:06:14Z",
             "owner": "entria",
@@ -784,6 +772,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 67152241,
             "language": "JavaScript",
             "last_commit": "2025-03-31T11:10:25Z",
             "owner": "Skyscanner",
@@ -798,6 +787,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 63638021,
             "language": null,
             "last_commit": "2020-01-30T01:52:31Z",
             "owner": "amaroteam",
@@ -812,6 +802,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 129126726,
             "language": null,
             "last_commit": "2024-04-12T12:12:40Z",
             "owner": "significa",
@@ -826,6 +817,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 73325317,
             "language": null,
             "last_commit": "2025-04-10T04:50:27Z",
             "owner": "StreamCo",
@@ -840,6 +832,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 79377655,
             "language": null,
             "last_commit": "2019-05-24T21:06:16Z",
             "owner": "pipefy",
@@ -854,6 +847,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 46835021,
             "language": null,
             "last_commit": "2023-06-23T14:21:56Z",
             "owner": "busbud",
@@ -868,6 +862,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 81027447,
             "language": null,
             "last_commit": "2022-02-24T16:34:14Z",
             "owner": "AmbulnzLLC",
@@ -882,6 +877,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 56016369,
             "language": "CSS",
             "last_commit": "2017-12-29T01:37:07Z",
             "owner": "esperco",
@@ -896,6 +892,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 62246870,
             "language": null,
             "last_commit": "2018-01-22T08:51:02Z",
             "owner": "ZEPL",
@@ -910,6 +907,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 62246870,
             "language": null,
             "last_commit": "2018-01-22T08:51:02Z",
             "owner": "ZEPL",
@@ -924,6 +922,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 81931938,
             "language": "JavaScript",
             "last_commit": "2017-03-01T09:33:42Z",
             "owner": "storecast",
@@ -938,6 +937,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 71375838,
             "language": null,
             "last_commit": "2019-05-06T22:37:41Z",
             "owner": "JustGivingArchive",
@@ -952,6 +952,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 125271009,
             "language": "JavaScript",
             "last_commit": "2018-05-08T16:26:30Z",
             "owner": "ClearScore",
@@ -966,6 +967,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 141262160,
             "language": null,
             "last_commit": "2018-07-23T12:43:30Z",
             "owner": "backbench",
@@ -980,6 +982,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 43799812,
             "language": "HTML",
             "last_commit": "2018-03-28T20:10:58Z",
             "owner": "deskbookers",
@@ -994,6 +997,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 64405335,
             "language": null,
             "last_commit": "2016-09-28T13:21:16Z",
             "owner": "deskbookers",
@@ -1008,6 +1012,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 75226965,
             "language": "HTML",
             "last_commit": "2017-03-09T22:36:46Z",
             "owner": "eventable",
@@ -1022,6 +1027,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 113791509,
             "language": "JavaScript",
             "last_commit": "2022-12-07T18:35:52Z",
             "owner": "goodylabs",
@@ -1036,6 +1042,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 79105619,
             "language": "JavaScript",
             "last_commit": "2017-01-16T14:23:46Z",
             "owner": "JustGivingArchive",
@@ -1050,6 +1057,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 139423686,
             "language": "JavaScript",
             "last_commit": "2018-07-06T14:09:28Z",
             "owner": "Medopad",
@@ -1064,30 +1072,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 195405761,
             "language": "JavaScript",
             "last_commit": "2022-12-10T04:34:22Z",
             "owner": "WorldfavorOrg",
             "repo": "recruitment-test",
             "stars": 0
           }
-        },
-        {
-          "node_type": "item",
-          "title": "Colony",
-          "description": "You'll be building a simple React component: an avatar picker.",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "Exzeo",
-          "description": "Create a React app to search for artists on iTunes and display the results.",
-          "children": []
         }
       ],
       "title": "React.js"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1096,31 +1093,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 128198227,
             "language": "Ruby",
             "last_commit": "2023-04-12T05:57:19Z",
             "owner": "goodylabs",
             "repo": "rails-dev-test",
             "stars": 0
           }
-        },
-        {
-          "node_type": "item",
-          "title": "Monterail",
-          "description": "QA recruitment task.",
-          "children": []
         }
       ],
       "title": "Ruby"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T16:28:53.561Z",
+    "last_updated": "2026-08-19T12:48:23.730Z",
     "original_repository": "zsoltime/awesome-recruitment-tests",
+    "original_repository_id": 138350709,
     "original_repository_sha": "4314ab019811602a50ed8424ca58f209124b70da",
     "enhanced_repository": "enhansome/enhansome-recruitment-tests",
     "enhanced_repository_description": null,
