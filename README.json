@@ -1106,9 +1106,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T16:46:13.927Z",
-    "original_repository": "zsoltime/awesome-recruitment-tests",
-    "original_repository_id": 138350709,
+    "last_updated": "2026-08-27T11:58:51.920Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 138350709,
+      "language": null,
+      "last_commit": "2020-04-12T10:32:23Z",
+      "owner": "zsoltime",
+      "repo": "awesome-recruitment-tests",
+      "stars": 67
+    },
     "original_repository_sha": "4314ab019811602a50ed8424ca58f209124b70da",
     "enhanced_repository": "enhansome/enhansome-recruitment-tests",
     "enhanced_repository_description": null,
