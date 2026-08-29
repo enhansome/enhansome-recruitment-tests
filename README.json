@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Frontend programming challenge for developer candidates at Ambulnz",
+            "homepage": null,
             "id": 81027447,
             "language": null,
+            "license": null,
             "last_commit": "2022-02-24T16:34:14Z",
+            "open_issues": 1,
             "owner": "AmbulnzLLC",
             "repo": "frontend-challenge",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:23:59.891Z"
         },
@@ -26,12 +31,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Are you up for the Thortful Front End Challenge?",
+            "homepage": null,
             "id": 35476915,
             "language": null,
+            "license": null,
             "last_commit": "2017-08-28T23:17:31Z",
+            "open_issues": 4,
             "owner": "ThortfulNew",
             "repo": "FrontEndChallenge",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:23:59.891Z"
         },
@@ -42,12 +52,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An Angular, HTML, and CSS-focused challenge.",
+            "homepage": null,
             "id": 45384893,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2022-11-28T15:46:56Z",
+            "open_issues": 0,
             "owner": "engagetech",
             "repo": "frontend-coding-challenge",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:23:59.891Z"
         },
@@ -58,12 +73,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": null,
+            "homepage": null,
             "id": 64405335,
             "language": null,
+            "license": null,
             "last_commit": "2016-09-28T13:21:16Z",
+            "open_issues": 0,
             "owner": "deskbookers",
             "repo": "frontend-test",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:23:59.891Z"
         }
@@ -80,12 +100,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": null,
+            "homepage": null,
             "id": 62134240,
             "language": "C#",
+            "license": null,
             "last_commit": "2022-07-07T13:26:10Z",
+            "open_issues": 0,
             "owner": "justeat",
             "repo": "JustEat.InfoSecRecruitmentTest",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:23:59.891Z"
         },
@@ -96,12 +121,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "SDET recruitment test",
+            "homepage": null,
             "id": 66085216,
             "language": "C#",
+            "license": null,
             "last_commit": "2016-09-09T11:20:33Z",
+            "open_issues": 0,
             "owner": "JustGivingArchive",
             "repo": "Recruitment-Test-SDET",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:23:59.891Z"
         }
@@ -118,12 +148,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Front-end test project used in recruitment",
+            "homepage": "https://www.xfive.co/blog/how-we-hire-great-developers/",
             "id": 22677810,
             "language": null,
+            "license": null,
             "last_commit": "2018-06-14T14:31:39Z",
+            "open_issues": 0,
             "owner": "xfiveco",
             "repo": "front-end-test-project",
-            "stars": 28
+            "stars": 28,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:23:59.891Z"
         },
@@ -134,12 +169,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Example interview test for frontend candidates. https://www.mcmakler.de",
+            "homepage": null,
             "id": 112184466,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2018-02-18T12:06:50Z",
+            "open_issues": 0,
             "owner": "mcmakler",
             "repo": "frontend-code-challenge",
-            "stars": 22
+            "stars": 22,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:23:59.891Z"
         },
@@ -150,12 +190,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 53930001,
             "language": null,
+            "license": null,
             "last_commit": "2024-09-19T09:44:25Z",
+            "open_issues": 0,
             "owner": "digiaonline",
             "repo": "docs",
-            "stars": 12
+            "stars": 12,
+            "topics": [
+              "docs"
+            ]
           },
           "first_seen": "2026-08-29T00:23:59.891Z"
         },
@@ -166,12 +213,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code/Design Challenge for Front End Engineering Applicants",
+            "homepage": "https://getyodlr.com/jobs",
             "id": 27783133,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-06-23T00:46:56Z",
+            "open_issues": 3,
             "owner": "yodlr",
             "repo": "frontend-code-challenge",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:23:59.891Z"
         },
@@ -182,12 +234,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "UI Test for interview candidates",
+            "homepage": null,
             "id": 68280743,
             "language": null,
+            "license": null,
             "last_commit": "2020-11-30T12:02:13Z",
+            "open_issues": 0,
             "owner": "justeat",
             "repo": "JustEat.Recruitment.UI",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:23:59.891Z"
         },
@@ -198,12 +255,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Busbud coding challenge baseline",
+            "homepage": null,
             "id": 11390843,
             "language": "HTML",
+            "license": null,
             "last_commit": "2020-03-11T22:55:49Z",
+            "open_issues": 1,
             "owner": "busbud",
             "repo": "coding-challenge-frontend-a",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:23:59.891Z"
         },
@@ -214,12 +276,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": null,
+            "homepage": null,
             "id": 98887370,
             "language": "HTML",
+            "license": null,
             "last_commit": "2017-07-31T13:39:32Z",
+            "open_issues": 0,
             "owner": "deskbookers",
             "repo": "frontend-test-junior",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:23:59.891Z"
         },
@@ -230,12 +297,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Our preliminary tests.",
+            "homepage": null,
             "id": 52776604,
             "language": null,
+            "license": null,
             "last_commit": "2017-01-11T06:52:06Z",
+            "open_issues": 0,
             "owner": "digiaonline",
             "repo": "preliminary-tests",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:23:59.891Z"
         },
@@ -246,12 +318,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pagepro test project used for learning and recruitment.",
+            "homepage": null,
             "id": 45536694,
             "language": null,
+            "license": null,
             "last_commit": "2016-04-07T12:22:21Z",
+            "open_issues": 0,
             "owner": "Pagepro",
             "repo": "front-end-test-project-01",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:23:59.891Z"
         },
@@ -262,12 +339,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pagepro test project used for learning and recruitment.",
+            "homepage": null,
             "id": 45989582,
             "language": null,
+            "license": null,
             "last_commit": "2015-11-11T15:34:11Z",
+            "open_issues": 0,
             "owner": "Pagepro",
             "repo": "front-end-test-project-02",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:23:59.891Z"
         }
@@ -284,12 +366,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Uber's tools team coding challenge",
+            "homepage": null,
             "id": 11830418,
             "language": null,
+            "license": null,
             "last_commit": "2016-12-19T19:17:47Z",
+            "open_issues": 0,
             "owner": "uber-archive",
             "repo": "coding-challenge-tools",
-            "stars": 802
+            "stars": 802,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:23:59.891Z"
         },
@@ -300,12 +387,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "The recruitment test to apply for an engineering role at Just Eat",
+            "homepage": "https://careers.justeattakeaway.com",
             "id": 24330148,
             "language": "Scala",
+            "license": "Apache-2.0",
             "last_commit": "2024-04-16T10:06:28Z",
+            "open_issues": 0,
             "owner": "justeat",
             "repo": "JustEat.RecruitmentTest",
-            "stars": 65
+            "stars": 65,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:23:59.891Z"
         },
@@ -316,12 +408,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Challenge for fullstack developer candidates",
+            "homepage": null,
             "id": 121062061,
             "language": null,
+            "license": null,
             "last_commit": "2023-11-02T17:44:13Z",
+            "open_issues": 4,
             "owner": "AmbulnzLLC",
             "repo": "fullstack-challenge",
-            "stars": 37
+            "stars": 37,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:23:59.891Z"
         },
@@ -332,12 +429,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Sitepoint Front End Test",
+            "homepage": null,
             "id": 30213713,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2018-05-16T00:21:07Z",
+            "open_issues": 1,
             "owner": "sitepoint",
             "repo": "frontend-test",
-            "stars": 22
+            "stars": 22,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:23:59.891Z"
         },
@@ -348,12 +450,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Front End Engineer Programming Challenge",
+            "homepage": null,
             "id": 62308642,
             "language": null,
+            "license": null,
             "last_commit": "2017-07-28T10:26:30Z",
+            "open_issues": 0,
             "owner": "Loktra",
             "repo": "Front-End-Engineer",
-            "stars": 19
+            "stars": 19,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:23:59.891Z"
         },
@@ -364,12 +471,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "JavaScript test project used in recruitment",
+            "homepage": "https://www.xfive.co/blog/how-we-hire-great-developers/",
             "id": 100364259,
             "language": null,
+            "license": null,
             "last_commit": "2019-10-03T07:50:23Z",
+            "open_issues": 0,
             "owner": "xfiveco",
             "repo": "javascript-test",
-            "stars": 14
+            "stars": 14,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:23:59.891Z"
         },
@@ -380,12 +492,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Splice Frontend Challenge!",
+            "homepage": null,
             "id": 57183818,
             "language": null,
+            "license": null,
             "last_commit": "2023-10-16T21:09:14Z",
+            "open_issues": 1,
             "owner": "splice",
             "repo": "js-808",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:23:59.891Z"
         },
@@ -396,12 +513,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": null,
+            "homepage": null,
             "id": 38066197,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2019-04-22T12:19:03Z",
+            "open_issues": 0,
             "owner": "roomkey",
             "repo": "front-end-code-challenge",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:23:59.891Z"
         },
@@ -412,12 +534,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Front-end engineer challenge",
+            "homepage": null,
             "id": 62246870,
             "language": null,
+            "license": null,
             "last_commit": "2018-01-22T08:51:02Z",
+            "open_issues": 0,
             "owner": "ZEPL",
             "repo": "front-end-challenge",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:23:59.891Z"
         },
@@ -428,12 +555,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Snowdog Front-end recruitment test task",
+            "homepage": "https://snow.dog",
             "id": 45183894,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2022-11-21T20:57:36Z",
+            "open_issues": 0,
             "owner": "SnowdogApps",
             "repo": "front-end-recruitment-test",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:23:59.891Z"
         },
@@ -444,12 +576,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 16291331,
             "language": null,
+            "license": null,
             "last_commit": "2014-03-20T16:16:11Z",
+            "open_issues": 0,
             "owner": "busbud",
             "repo": "coding-challenge-analytics-a",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:23:59.891Z"
         },
@@ -460,12 +597,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 76465795,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2020-12-07T21:34:52Z",
+            "open_issues": 1,
             "owner": "goodylabs",
             "repo": "frontend-dev-test",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:23:59.891Z"
         }
@@ -482,12 +624,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Come and join the Entria team",
+            "homepage": "https://medium.com/entria",
             "id": 79812897,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-03-08T13:06:14Z",
+            "open_issues": 1,
             "owner": "entria",
             "repo": "jobs",
-            "stars": 392
+            "stars": 392,
+            "topics": [
+              "bleeding-edge",
+              "front-end",
+              "graphql",
+              "jobs",
+              "react",
+              "react-native",
+              "relay",
+              "vagas"
+            ]
           },
           "first_seen": "2026-08-29T00:23:59.891Z"
         },
@@ -498,12 +654,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Coding Challenge",
+            "homepage": null,
             "id": 19303334,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2023-08-17T19:32:17Z",
+            "open_issues": 0,
             "owner": "busbud",
             "repo": "coding-challenge-backend-c",
-            "stars": 46
+            "stars": 46,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:23:59.891Z"
         },
@@ -514,12 +675,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Backend programming challenge for developer candidates at Ambulnz",
+            "homepage": null,
             "id": 81026749,
             "language": null,
+            "license": null,
             "last_commit": "2022-09-22T20:45:36Z",
+            "open_issues": 4,
             "owner": "AmbulnzLLC",
             "repo": "backend-challenge",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:23:59.891Z"
         },
@@ -530,12 +696,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Deskbookers Full-Stack Developer skill test",
+            "homepage": null,
             "id": 64395116,
             "language": "PHP",
+            "license": null,
             "last_commit": "2017-02-28T13:24:28Z",
+            "open_issues": 0,
             "owner": "deskbookers",
             "repo": "full-stack-test",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:23:59.891Z"
         },
@@ -546,12 +717,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Test technique utilisé pour le recrutement à GarageScore",
+            "homepage": null,
             "id": 112626181,
             "language": null,
+            "license": null,
             "last_commit": "2017-11-30T15:16:11Z",
+            "open_issues": 0,
             "owner": "garagescore",
             "repo": "recruitment-test",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:23:59.891Z"
         },
@@ -562,12 +738,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 76465755,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2017-01-18T08:17:56Z",
+            "open_issues": 0,
             "owner": "goodylabs",
             "repo": "backend-dev-test",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:23:59.891Z"
         }
@@ -584,12 +765,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 53930001,
             "language": null,
+            "license": null,
             "last_commit": "2024-09-19T09:44:25Z",
+            "open_issues": 0,
             "owner": "digiaonline",
             "repo": "docs",
-            "stars": 12
+            "stars": 12,
+            "topics": [
+              "docs"
+            ]
           },
           "first_seen": "2026-08-29T00:23:59.891Z"
         },
@@ -600,12 +788,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 65009664,
             "language": "PHP",
+            "license": null,
             "last_commit": "2026-06-30T13:09:11Z",
+            "open_issues": 8,
             "owner": "teamleadercrm",
             "repo": "coding-test",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "recruitment"
+            ]
           },
           "first_seen": "2026-08-29T00:23:59.891Z"
         },
@@ -616,12 +811,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "No longer used WordPress test project",
+            "homepage": "https://www.xfive.co/blog/how-we-hire-great-developers/",
             "id": 100370605,
             "language": null,
+            "license": null,
             "last_commit": "2018-05-22T06:50:29Z",
+            "open_issues": 0,
             "owner": "xfiveco",
             "repo": "wordpress-test",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:23:59.891Z"
         },
@@ -632,12 +832,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Recruitment test for developer roles at Aiir",
+            "homepage": null,
             "id": 82163843,
             "language": null,
+            "license": null,
             "last_commit": "2017-02-18T13:08:01Z",
+            "open_issues": 0,
             "owner": "aiir",
             "repo": "dev-recruitment-test",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:23:59.891Z"
         },
@@ -648,12 +853,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Challenge for those applying to the Frontend Engineer position",
+            "homepage": null,
             "id": 6252654,
             "language": null,
+            "license": null,
             "last_commit": "2016-06-09T17:41:12Z",
+            "open_issues": 0,
             "owner": "citizennet",
             "repo": "frontend-engineering-challenge",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:23:59.891Z"
         },
@@ -664,12 +874,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repository contains recruitment test for PHP developers.",
+            "homepage": null,
             "id": 64653987,
             "language": "PHP",
+            "license": null,
             "last_commit": "2021-11-17T13:27:22Z",
+            "open_issues": 0,
             "owner": "SnowdogApps",
             "repo": "php-recruitment-test",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:23:59.891Z"
         },
@@ -680,12 +895,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "XEDI developer recruitment test",
+            "homepage": "https://xedi.com/careers",
             "id": 50237376,
             "language": null,
+            "license": null,
             "last_commit": "2018-05-10T12:37:21Z",
+            "open_issues": 0,
             "owner": "xedi",
             "repo": "tech-test",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:23:59.891Z"
         },
@@ -696,12 +916,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "XEDI developer recruitment test",
+            "homepage": "https://xedi.com/careers",
             "id": 50237376,
             "language": null,
+            "license": null,
             "last_commit": "2018-05-10T12:37:21Z",
+            "open_issues": 0,
             "owner": "xedi",
             "repo": "tech-test",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:23:59.891Z"
         }
@@ -718,12 +943,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 75810775,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-12-26T20:28:47Z",
+            "open_issues": 8,
             "owner": "Tuteria",
             "repo": "Recruitment-test",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:23:59.891Z"
         },
@@ -734,12 +964,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 16291331,
             "language": null,
+            "license": null,
             "last_commit": "2014-03-20T16:16:11Z",
+            "open_issues": 0,
             "owner": "busbud",
             "repo": "coding-challenge-analytics-a",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:23:59.891Z"
         },
@@ -750,12 +985,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 23213043,
             "language": "Python",
+            "license": null,
             "last_commit": "2014-08-25T13:42:17Z",
+            "open_issues": 0,
             "owner": "busbud",
             "repo": "coding-challenge-d",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:23:59.891Z"
         },
@@ -766,12 +1006,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Busbud coding challenge baseline",
+            "homepage": null,
             "id": 14143587,
             "language": "Python",
+            "license": null,
             "last_commit": "2014-01-08T05:41:34Z",
+            "open_issues": 0,
             "owner": "busbud",
             "repo": "coding-challenge-crawler-a",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:23:59.891Z"
         },
@@ -782,12 +1027,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 15877228,
             "language": "Python",
+            "license": null,
             "last_commit": "2014-05-01T16:58:37Z",
+            "open_issues": 0,
             "owner": "busbud",
             "repo": "coding-challenge-crawler-b",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:23:59.891Z"
         }
@@ -804,12 +1054,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Come and join the Entria team",
+            "homepage": "https://medium.com/entria",
             "id": 79812897,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-03-08T13:06:14Z",
+            "open_issues": 1,
             "owner": "entria",
             "repo": "jobs",
-            "stars": 392
+            "stars": 392,
+            "topics": [
+              "bleeding-edge",
+              "front-end",
+              "graphql",
+              "jobs",
+              "react",
+              "react-native",
+              "relay",
+              "vagas"
+            ]
           },
           "first_seen": "2026-08-29T00:23:59.891Z"
         },
@@ -820,12 +1084,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": null,
+            "homepage": null,
             "id": 67152241,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2025-03-31T11:10:25Z",
+            "open_issues": 7,
             "owner": "Skyscanner",
             "repo": "full-stack-recruitment-test",
-            "stars": 114
+            "stars": 114,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:23:59.891Z"
         },
@@ -836,12 +1105,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Challenge for those seeking a role as a front-end developer @amarofashion",
+            "homepage": "https://amaro.com",
             "id": 63638021,
             "language": null,
+            "license": null,
             "last_commit": "2020-01-30T01:52:31Z",
+            "open_issues": 0,
             "owner": "amaroteam",
             "repo": "front-end-challenge",
-            "stars": 103
+            "stars": 103,
+            "topics": [
+              "challenge",
+              "front-end",
+              "react"
+            ]
           },
           "first_seen": "2026-08-29T00:23:59.891Z"
         },
@@ -852,12 +1130,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Significa's frontend challenge.",
+            "homepage": "https://significa.co",
             "id": 129126726,
             "language": null,
+            "license": null,
             "last_commit": "2024-04-12T12:12:40Z",
+            "open_issues": 0,
             "owner": "significa",
             "repo": "frontend-challenge",
-            "stars": 96
+            "stars": 96,
+            "topics": [
+              "recruitment-task"
+            ]
           },
           "first_seen": "2026-08-29T00:23:59.891Z"
         },
@@ -868,12 +1153,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Web Coding Challenge",
+            "homepage": null,
             "id": 73325317,
             "language": null,
+            "license": null,
             "last_commit": "2025-04-10T04:50:27Z",
+            "open_issues": 0,
             "owner": "StreamCo",
             "repo": "streamco-web-coding-challenge",
-            "stars": 64
+            "stars": 64,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:23:59.891Z"
         },
@@ -884,12 +1174,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 79377655,
             "language": null,
+            "license": null,
             "last_commit": "2019-05-24T21:06:16Z",
+            "open_issues": 0,
             "owner": "pipefy",
             "repo": "RecruitmentExercise",
-            "stars": 30
+            "stars": 30,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:23:59.891Z"
         },
@@ -900,12 +1195,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A microsite that lists bus travel schedules for a given route and a given date ",
+            "homepage": null,
             "id": 46835021,
             "language": null,
+            "license": "Unlicense",
             "last_commit": "2023-06-23T14:21:56Z",
+            "open_issues": 0,
             "owner": "busbud",
             "repo": "coding-challenge-frontend-b",
-            "stars": 24
+            "stars": 24,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:23:59.891Z"
         },
@@ -916,12 +1216,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Frontend programming challenge for developer candidates at Ambulnz",
+            "homepage": null,
             "id": 81027447,
             "language": null,
+            "license": null,
             "last_commit": "2022-02-24T16:34:14Z",
+            "open_issues": 1,
             "owner": "AmbulnzLLC",
             "repo": "frontend-challenge",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:23:59.891Z"
         },
@@ -932,12 +1237,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Front End Developer Challenge",
+            "homepage": null,
             "id": 56016369,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2017-12-29T01:37:07Z",
+            "open_issues": 0,
             "owner": "esperco",
             "repo": "front-end-challenge",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:23:59.891Z"
         },
@@ -948,12 +1258,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Front-end engineer challenge",
+            "homepage": null,
             "id": 62246870,
             "language": null,
+            "license": null,
             "last_commit": "2018-01-22T08:51:02Z",
+            "open_issues": 0,
             "owner": "ZEPL",
             "repo": "front-end-challenge",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:23:59.891Z"
         },
@@ -964,12 +1279,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Front-end engineer challenge",
+            "homepage": null,
             "id": 62246870,
             "language": null,
+            "license": null,
             "last_commit": "2018-01-22T08:51:02Z",
+            "open_issues": 0,
             "owner": "ZEPL",
             "repo": "front-end-challenge",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:23:59.891Z"
         },
@@ -980,12 +1300,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 81931938,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2017-03-01T09:33:42Z",
+            "open_issues": 1,
             "owner": "storecast",
             "repo": "frontend-challenge",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:23:59.891Z"
         },
@@ -996,12 +1321,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "An unattended front end recruitment test for JustGiving.",
+            "homepage": null,
             "id": 71375838,
             "language": null,
+            "license": null,
             "last_commit": "2019-05-06T22:37:41Z",
+            "open_issues": 1,
             "owner": "JustGivingArchive",
             "repo": "recruitment-test-donations",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:23:59.891Z"
         },
@@ -1012,12 +1342,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": null,
+            "homepage": null,
             "id": 125271009,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2018-05-08T16:26:30Z",
+            "open_issues": 0,
             "owner": "ClearScore",
             "repo": "FED-home-test",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:23:59.891Z"
         },
@@ -1028,12 +1363,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "For hiring front-end full time",
+            "homepage": null,
             "id": 141262160,
             "language": null,
+            "license": null,
             "last_commit": "2018-07-23T12:43:30Z",
+            "open_issues": 0,
             "owner": "backbench",
             "repo": "front-end-challenge-2018",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:23:59.891Z"
         },
@@ -1044,12 +1384,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": null,
+            "homepage": null,
             "id": 43799812,
             "language": "HTML",
+            "license": null,
             "last_commit": "2018-03-28T20:10:58Z",
+            "open_issues": 2,
             "owner": "deskbookers",
             "repo": "frontend-expert-test",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:23:59.891Z"
         },
@@ -1060,12 +1405,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": null,
+            "homepage": null,
             "id": 64405335,
             "language": null,
+            "license": null,
             "last_commit": "2016-09-28T13:21:16Z",
+            "open_issues": 0,
             "owner": "deskbookers",
             "repo": "frontend-test",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:23:59.891Z"
         },
@@ -1076,12 +1426,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Eventable Frontend Coding Challenge",
+            "homepage": null,
             "id": 75226965,
             "language": "HTML",
+            "license": null,
             "last_commit": "2017-03-09T22:36:46Z",
+            "open_issues": 0,
             "owner": "eventable",
             "repo": "frontend-coding-challenge",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:23:59.891Z"
         },
@@ -1092,12 +1447,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple react & webpack project for recruitment process",
+            "homepage": null,
             "id": 113791509,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2022-12-07T18:35:52Z",
+            "open_issues": 20,
             "owner": "goodylabs",
             "repo": "fe-dev-test",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:23:59.891Z"
         },
@@ -1108,12 +1468,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "An unattended SDET recruitment test for JustGiving.",
+            "homepage": null,
             "id": 79105619,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2017-01-16T14:23:46Z",
+            "open_issues": 0,
             "owner": "JustGivingArchive",
             "repo": "recruitment-test-donations-sdet",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:23:59.891Z"
         },
@@ -1124,12 +1489,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 139423686,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2018-07-06T14:09:28Z",
+            "open_issues": 0,
             "owner": "Medopad",
             "repo": "medopad-frontend-challenge",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:23:59.891Z"
         },
@@ -1140,12 +1510,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Technical recruitment test for Worldfavor's frontend candidates",
+            "homepage": null,
             "id": 195405761,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2022-12-10T04:34:22Z",
+            "open_issues": 21,
             "owner": "WorldfavorOrg",
             "repo": "recruitment-test",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:23:59.891Z"
         }
@@ -1162,12 +1537,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple RoR test for candidates",
+            "homepage": null,
             "id": 128198227,
             "language": "Ruby",
+            "license": null,
             "last_commit": "2023-04-12T05:57:19Z",
+            "open_issues": 3,
             "owner": "goodylabs",
             "repo": "rails-dev-test",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:23:59.891Z"
         }
@@ -1176,15 +1556,28 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T00:23:59.891Z",
+    "last_updated": "2026-08-29T05:04:35.370Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome coding assignments and recruitment tests",
+      "homepage": null,
       "id": 138350709,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2020-04-12T10:32:23Z",
+      "open_issues": 0,
       "owner": "zsoltime",
       "repo": "awesome-recruitment-tests",
-      "stars": 67
+      "stars": 67,
+      "topics": [
+        "assignments",
+        "awesome",
+        "awesome-list",
+        "challenge",
+        "recruiters",
+        "recruitment-task",
+        "recruitment-test"
+      ]
     },
     "original_repository_sha": "4314ab019811602a50ed8424ca58f209124b70da",
     "enhanced_repository": "enhansome/enhansome-recruitment-tests",
