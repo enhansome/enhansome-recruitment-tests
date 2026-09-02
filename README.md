@@ -76,7 +76,7 @@ Contributions are very welcome. Please see [CONTRIBUTING.md](https://github.com/
 
 ## Node.js
 
-* [Entria](https://github.com/entria/jobs/blob/master/backend/challenge.md) ⭐ 392 | 🐛 1 | 🌐 JavaScript | 📅 2026-03-08 - Create a REST CRUD.
+* [Entria](https://github.com/entria/jobs/blob/master/backend/challenge.md) ⭐ 390 | 🐛 1 | 🌐 JavaScript | 📅 2026-03-08 - Create a REST CRUD.
 * [Busbud](https://github.com/busbud/coding-challenge-backend-c) ⭐ 46 | 🐛 0 | 🌐 JavaScript | 📅 2023-08-17 - Design an API endpoint that provides autocomplete suggestions for large cities.
 * [AmbulnzLLC](https://github.com/AmbulnzLLC/backend-challenge) ⭐ 9 | 🐛 4 | 📅 2022-09-22 - The application serves the purpose of ordering pizza online.
 * [Deskbookers](https://github.com/deskbookers/full-stack-test) ⚠️ Archived - Full stack developer test.
@@ -106,7 +106,7 @@ Contributions are very welcome. Please see [CONTRIBUTING.md](https://github.com/
 
 ## React.js
 
-* [Entria](https://github.com/entria/jobs/blob/master/frontend/challenge.md) ⭐ 392 | 🐛 1 | 🌐 JavaScript | 📅 2026-03-08 - Create a List and Detail view for some model.
+* [Entria](https://github.com/entria/jobs/blob/master/frontend/challenge.md) ⭐ 390 | 🐛 1 | 🌐 JavaScript | 📅 2026-03-08 - Create a List and Detail view for some model.
 * [SkyScanner](https://github.com/Skyscanner/full-stack-recruitment-test) ⚠️ Archived - Full-stack recruitment test.
 * [AMARO](https://github.com/amarofashion/front-end-challenge) ⭐ 103 | 🐛 0 | 📅 2020-01-30 - Build a catalogue page for some products of AMARO.
 * [Significa](https://github.com/Significa/frontend-challenge) ⭐ 96 | 🐛 0 | 📅 2024-04-12 - You should write a React app, using the provided screens as reference. You'll need to make requests to an API to get some JSON content, filter the data, and print it on view.
@@ -146,4 +146,4 @@ Contributions are very welcome. Please see [CONTRIBUTING.md](https://github.com/
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
