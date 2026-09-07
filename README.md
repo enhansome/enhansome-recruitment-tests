@@ -124,12 +124,12 @@ Contributions are very welcome. Please see [CONTRIBUTING.md](https://github.com/
 * [DeskBookers](https://github.com/deskbookers/frontend-expert-test) ⚠️ Archived - Another front-end developer test for experts.
 * [Deskbookers](https://github.com/deskbookers/frontend-test) ⚠️ Archived - Create a single webpage with a navigation bar, a slider, and a search bar. CSS frameworks are not allowed.
 * [Eventable](https://github.com/eventable/frontend-coding-challenge) ⭐ 0 | 🐛 0 | 🌐 HTML | 📅 2017-03-09 - Create a React app with three primary components; a list of events, a form, and a search component.
-* [Goodylabs](https://github.com/goodylabs/fe-dev-test) ⭐ 0 | 🐛 20 | 🌐 JavaScript | 📅 2022-12-07 - Simple React & webpack project for recruitment process.
 * [JustGiving](https://github.com/JustGiving/recruitment-test-donations-sdet) ⚠️ Archived - An unattended SDET recruitment test for JustGiving.
 * [Medopad](https://github.com/Medopad/medopad-frontend-challenge) ⭐ 0 | 🐛 0 | 🌐 JavaScript | 📅 2018-07-06 - Create a React.js app that allows a doctor to visualise and a monitor patient's heart rate.
 * [Worldfavor](https://github.com/WorldfavorOrg/recruitment-test) ⭐ 0 | 🐛 21 | 🌐 JavaScript | 📅 2022-12-10 - Complete three different tasks; implement the provided design, work on state management, and change the way data is loaded.
 * [Colony](https://github.com/JoinColony/coding-challenge) - You'll be building a simple React component: an avatar picker.
 * [Exzeo](https://github.com/exzeo/react-challenge) - Create a React app to search for artists on iTunes and display the results.
+* [Goodylabs](https://github.com/goodylabs/fe-dev-test) - Simple React & webpack project for recruitment process.
 
 ## Ruby
 
@@ -146,4 +146,4 @@ Contributions are very welcome. Please see [CONTRIBUTING.md](https://github.com/
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._

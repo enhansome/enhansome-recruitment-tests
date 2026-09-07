@@ -1442,27 +1442,6 @@
         },
         {
           "node_type": "item",
-          "title": "Goodylabs",
-          "description": "Simple React & webpack project for recruitment process.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Simple react & webpack project for recruitment process",
-            "homepage": null,
-            "id": 113791509,
-            "language": "JavaScript",
-            "license": null,
-            "last_commit": "2022-12-07T18:35:52Z",
-            "open_issues": 20,
-            "owner": "goodylabs",
-            "repo": "fe-dev-test",
-            "stars": 0,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T00:23:59.891Z"
-        },
-        {
-          "node_type": "item",
           "title": "JustGiving",
           "description": "An unattended SDET recruitment test for JustGiving.",
           "children": [],
@@ -1556,7 +1535,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T18:00:23.344Z",
+    "last_updated": "2026-09-07T19:35:16.025Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome coding assignments and recruitment tests",
