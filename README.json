@@ -793,8 +793,8 @@
             "id": 65009664,
             "language": "PHP",
             "license": null,
-            "last_commit": "2026-06-30T13:09:11Z",
-            "open_issues": 8,
+            "last_commit": "2026-09-18T12:15:14Z",
+            "open_issues": 9,
             "owner": "teamleadercrm",
             "repo": "coding-test",
             "stars": 8,
@@ -1535,7 +1535,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T19:32:23.904Z",
+    "last_updated": "2026-09-18T18:51:48.664Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome coding assignments and recruitment tests",
