@@ -2,7 +2,7 @@
 
 This is a curated list of awesome coding assignments and recruitment tests.
 
-Contributions are very welcome. Please see [CONTRIBUTING.md](https://github.com/zsoltime/awesome-recruitment-tests/blob/master/CONTRIBUTING.md) ⭐ 67 | 🐛 0 | 📅 2020-04-12.
+Contributions are very welcome. Please see [CONTRIBUTING.md](https://github.com/zsoltime/awesome-recruitment-tests/blob/master/CONTRIBUTING.md).
 
 ## Contents
 
@@ -146,4 +146,4 @@ Contributions are very welcome. Please see [CONTRIBUTING.md](https://github.com/
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
