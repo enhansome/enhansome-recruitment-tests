@@ -109,7 +109,7 @@ Contributions are very welcome. Please see [CONTRIBUTING.md](https://github.com/
 * [Entria](https://github.com/entria/jobs/blob/master/frontend/challenge.md) ⭐ 390 | 🐛 1 | 🌐 JavaScript | 📅 2026-09-08 - Create a List and Detail view for some model.
 * [SkyScanner](https://github.com/Skyscanner/full-stack-recruitment-test) ⚠️ Archived - Full-stack recruitment test.
 * [AMARO](https://github.com/amarofashion/front-end-challenge) ⭐ 103 | 🐛 0 | 📅 2020-01-30 - Build a catalogue page for some products of AMARO.
-* [Significa](https://github.com/Significa/frontend-challenge) ⭐ 96 | 🐛 0 | 📅 2024-04-12 - You should write a React app, using the provided screens as reference. You'll need to make requests to an API to get some JSON content, filter the data, and print it on view.
+* [Significa](https://github.com/Significa/frontend-challenge) ⭐ 97 | 🐛 0 | 📅 2024-04-12 - You should write a React app, using the provided screens as reference. You'll need to make requests to an API to get some JSON content, filter the data, and print it on view.
 * [StreamCo](https://github.com/StreamCo/react-coding-challenge) ⚠️ Archived - You will need to build the following 3 pages with React, a "Home", a "Series", and a "Movies" page.
 * [Pipefy](https://github.com/pipefy/RecruitmentExercise/blob/master/FRONTENDEXERCISE.md) ⭐ 30 | 🐛 0 | 📅 2019-05-24 - You will build a React application that will render a Pipefy form.
 * [Busbud](https://github.com/busbud/coding-challenge-frontend-b) ⭐ 24 | 🐛 0 | 📅 2023-06-23 - Your challenge is to build a microsite that allows a traveller from NYC to find one-way departure schedules to the Osheaga festival.
@@ -146,4 +146,4 @@ Contributions are very welcome. Please see [CONTRIBUTING.md](https://github.com/
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
