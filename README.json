@@ -630,7 +630,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-09-08T20:42:24Z",
-            "open_issues": 1,
+            "open_issues": 0,
             "owner": "entria",
             "repo": "jobs",
             "stars": 390,
@@ -1060,7 +1060,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-09-08T20:42:24Z",
-            "open_issues": 1,
+            "open_issues": 0,
             "owner": "entria",
             "repo": "jobs",
             "stars": 390,
@@ -1162,7 +1162,7 @@
             "open_issues": 0,
             "owner": "StreamCo",
             "repo": "streamco-web-coding-challenge",
-            "stars": 63,
+            "stars": 64,
             "topics": []
           },
           "first_seen": "2026-08-29T00:23:59.891Z"
@@ -1535,7 +1535,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T18:26:52.444Z",
+    "last_updated": "2026-10-19T20:52:36.062Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome coding assignments and recruitment tests",
