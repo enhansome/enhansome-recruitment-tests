@@ -1162,7 +1162,7 @@
             "open_issues": 0,
             "owner": "StreamCo",
             "repo": "streamco-web-coding-challenge",
-            "stars": 64,
+            "stars": 63,
             "topics": []
           },
           "first_seen": "2026-08-29T00:23:59.891Z"
@@ -1535,7 +1535,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T20:52:36.062Z",
+    "last_updated": "2026-10-20T19:49:16.916Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome coding assignments and recruitment tests",
