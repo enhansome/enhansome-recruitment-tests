@@ -37,7 +37,7 @@
             "language": null,
             "license": null,
             "last_commit": "2017-08-28T23:17:31Z",
-            "open_issues": 4,
+            "open_issues": 5,
             "owner": "ThortfulNew",
             "repo": "FrontEndChallenge",
             "stars": 4,
@@ -1162,7 +1162,7 @@
             "open_issues": 0,
             "owner": "StreamCo",
             "repo": "streamco-web-coding-challenge",
-            "stars": 63,
+            "stars": 62,
             "topics": []
           },
           "first_seen": "2026-08-29T00:23:59.891Z"
@@ -1535,7 +1535,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T19:42:56.413Z",
+    "last_updated": "2026-11-01T20:09:53.268Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome coding assignments and recruitment tests",

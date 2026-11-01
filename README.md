@@ -21,7 +21,7 @@ Contributions are very welcome. Please see [CONTRIBUTING.md](https://github.com/
 ## Angular
 
 * [AmbulnzLLC](https://github.com/AmbulnzLLC/frontend-challenge) ⭐ 12 | 🐛 1 | 📅 2022-02-24 - Build a single page web app that allows users to order pizza.
-* [Thortful](https://github.com/ThortfulNew/FrontEndChallenge) ⭐ 4 | 🐛 4 | 📅 2017-08-28 - Write a JavaScript / CoffeeScript app using AngularJS that will allow a user to search a repository by name and display a repository's relevant information.
+* [Thortful](https://github.com/ThortfulNew/FrontEndChallenge) ⭐ 4 | 🐛 5 | 📅 2017-08-28 - Write a JavaScript / CoffeeScript app using AngularJS that will allow a user to search a repository by name and display a repository's relevant information.
 * [EngageTech](https://github.com/engagetech/frontend-coding-challenge) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2022-11-28 - An Angular, HTML, and CSS-focused challenge where you create an application that displays the data returned from a REST endpoint provided by the included Java application.
 * [Deskbookers](https://github.com/deskbookers/frontend-test) ⚠️ Archived - Create a single webpage with a navigation bar, a slider, and a search bar. CSS frameworks are not allowed.
 * [Chatham](https://github.com/Chatham/fe-test-task) - You'll build a small web application for a weather dashboard using AngularJS.
@@ -146,4 +146,4 @@ Contributions are very welcome. Please see [CONTRIBUTING.md](https://github.com/
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
