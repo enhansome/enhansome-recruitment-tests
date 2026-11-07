@@ -60,7 +60,7 @@ Contributions are very welcome. Please see [CONTRIBUTING.md](https://github.com/
 
 * [Uber](https://github.com/uber/coding-challenge-tools) ⚠️ Archived - You can work on one of the four challenges provided.
 * [JustEat](https://github.com/justeat/JustEat.RecruitmentTest) ⚠️ Archived - Create the application as either a command line application, web application or mobile application.
-* [AmbulnzLLC](https://github.com/AmbulnzLLC/fullstack-challenge) ⭐ 37 | 🐛 4 | 📅 2023-11-02 - Challenge for full-stack developer.
+* [AmbulnzLLC](https://github.com/AmbulnzLLC/fullstack-challenge) ⭐ 36 | 🐛 4 | 📅 2023-11-02 - Challenge for full-stack developer.
 * [SitePoint](https://github.com/sitepoint/frontend-test) ⭐ 22 | 🐛 1 | 🌐 JavaScript | 📅 2018-05-16 - You need to create a simple counter application.
 * [Loktra](https://github.com/Loktra/Front-End-Engineer) ⭐ 19 | 🐛 0 | 📅 2017-07-28 - Five different front end engineer challenges to choose from.
 * [Xfive](https://github.com/xfiveco/javascript-test) ⭐ 14 | 🐛 0 | 📅 2019-10-03 - Xfive test JavaScript project.
@@ -146,4 +146,4 @@ Contributions are very welcome. Please see [CONTRIBUTING.md](https://github.com/
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
