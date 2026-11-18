@@ -375,7 +375,7 @@
             "open_issues": 0,
             "owner": "uber-archive",
             "repo": "coding-challenge-tools",
-            "stars": 804,
+            "stars": 805,
             "topics": []
           },
           "first_seen": "2026-08-29T00:23:59.891Z"
@@ -659,8 +659,8 @@
             "id": 19303334,
             "language": "JavaScript",
             "license": null,
-            "last_commit": "2023-08-17T19:32:17Z",
-            "open_issues": 0,
+            "last_commit": "2026-11-18T18:16:09Z",
+            "open_issues": 1,
             "owner": "busbud",
             "repo": "coding-challenge-backend-c",
             "stars": 46,
@@ -1535,7 +1535,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T23:19:38.945Z",
+    "last_updated": "2026-11-18T22:49:59.713Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome coding assignments and recruitment tests",

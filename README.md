@@ -77,7 +77,7 @@ Contributions are very welcome. Please see [CONTRIBUTING.md](https://github.com/
 ## Node.js
 
 * [Entria](https://github.com/entria/jobs/blob/master/backend/challenge.md) ⭐ 390 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-08 - Create a REST CRUD.
-* [Busbud](https://github.com/busbud/coding-challenge-backend-c) ⭐ 46 | 🐛 0 | 🌐 JavaScript | 📅 2023-08-17 - Design an API endpoint that provides autocomplete suggestions for large cities.
+* [Busbud](https://github.com/busbud/coding-challenge-backend-c) ⭐ 46 | 🐛 1 | 🌐 JavaScript | 📅 2026-11-18 - Design an API endpoint that provides autocomplete suggestions for large cities.
 * [AmbulnzLLC](https://github.com/AmbulnzLLC/backend-challenge) ⭐ 9 | 🐛 4 | 📅 2022-09-22 - The application serves the purpose of ordering pizza online.
 * [Deskbookers](https://github.com/deskbookers/full-stack-test) ⚠️ Archived - Full stack developer test.
 * [GarageScore](https://github.com/garagescore/recruitment-test) ⭐ 0 | 🐛 0 | 📅 2017-11-30 - First of the series of three challenges.
@@ -146,4 +146,4 @@ Contributions are very welcome. Please see [CONTRIBUTING.md](https://github.com/
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
