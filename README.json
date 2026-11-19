@@ -375,7 +375,7 @@
             "open_issues": 0,
             "owner": "uber-archive",
             "repo": "coding-challenge-tools",
-            "stars": 805,
+            "stars": 802,
             "topics": []
           },
           "first_seen": "2026-08-29T00:23:59.891Z"
@@ -1535,7 +1535,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T22:49:59.713Z",
+    "last_updated": "2026-11-19T22:53:48.260Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome coding assignments and recruitment tests",
