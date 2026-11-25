@@ -1129,7 +1129,7 @@
           "description": "You should write a React app, using the provided screens as reference. You'll need to make requests to an API to get some JSON content, filter the data, and print it on view.",
           "children": [],
           "repo_info": {
-            "archived": false,
+            "archived": true,
             "description": "Significa's frontend challenge.",
             "homepage": "https://significa.co",
             "id": 129126726,
@@ -1535,7 +1535,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T00:19:33.095Z",
+    "last_updated": "2026-11-25T23:58:41.492Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome coding assignments and recruitment tests",
